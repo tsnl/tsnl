@@ -14,10 +14,10 @@ Please feel free to file issues and pull requests.
 You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidiculla+github@gmail.com).
 
 **C++ libraries and tools for Bazel: `tsnl.*`**
-- [`tsnl.log`](https://github.com/tsnl/log): a simple logging library
-- [`tsnl.intstr`](https://github.com/tsnl/intstr): interned strings
-- [`tsnl.cc_embed`](https://github.com/tsnl/cc_embed): tools to embed binary files in C++ source code (with Bazel rules)
-- [`tsnl.os_util`](https://github.com/tsnl/os_util): portable high-level operating system utilities, e.g. mmap-ed files
+- [`tsnl.log`](https://github.com/tsnl/log): a simple logging library.
+- [`tsnl.intstr`](https://github.com/tsnl/intstr): interned strings.
+- [`tsnl.cc_embed`](https://github.com/tsnl/cc_embed): tools to embed binary files in C++ source code (with Bazel rules).
+- [`tsnl.os_util`](https://github.com/tsnl/os_util): portable high-level operating system utilities, e.g. mmap-ed files.
 - [`cpp_base`](https://github.com/tsnl/cpp_base): a common template for C++ repos.
 
 **Rust tools**
