@@ -2,13 +2,12 @@
 
 Welcome to my humble abode. 😊
 
-I am a simulation software engineer at Tesla on the Optimus team where I specialize in camera modeling, rendering, 
+I am a simulation software engineer at Tesla on the Optimus team who specializes in camera modeling, rendering, 
 high-throughput synthetic data generation, and general software architecture. I'm also interested in physics engines, 
 reinforcement learning, and solving challenging sim-to-real transfer problems.
 
-My first loves are compilers, programming languages, and computer graphics. I typically work on these kinds of projects
-to unwind. You can still find a few old programming language prototypes if you go digging through my repos, but I'm 
-always prototyping new language features.
+My first loves are compilers, programming languages, and computer graphics. I typically work on these projects to 
+unwind.
 
 On this GitHub account, you can find a collection of tools useful for projects in these fields. 
 Please feel free to file issues and pull requests.
