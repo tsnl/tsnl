@@ -13,17 +13,33 @@ On this GitHub account, you can find a collection of tools useful for projects i
 Please feel free to file issues and pull requests.
 You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidiculla+github@gmail.com).
 
-**C++ libraries and tools for Bazel: `tsnl.*`**
-- [`tsnl.log`](https://github.com/tsnl/log): a simple logging library.
-- [`tsnl.intstr`](https://github.com/tsnl/intstr): interned strings.
-- [`tsnl.cc_embed`](https://github.com/tsnl/cc_embed): tools to embed binary files in C++ source code (with Bazel rules).
-- [`tsnl.os_util`](https://github.com/tsnl/os_util): portable high-level operating system utilities, e.g. mmap-ed files.
-- [`cpp_base`](https://github.com/tsnl/cpp_base): a common template for C++ repos.
+## Projects
 
-**Rust libraries and tools**
-- [`sexpfmt`](https://github.com/tsnl/sexpfmt): S-expression formatter, great for [expect tests](https://blog.janestreet.com/the-joy-of-expect-tests/).
-- [`simd_math`](https://github.com/tsnl/simd_math): SIMD math functions for spatial computing (games, robotics, etc).
-- [`semver-bump-and-cargo-publish`](https://github.com/tsnl/semver-bump-and-cargo-publish): GitHub Action to bump semver and `cargo deploy`.
+<details>
+  <summary>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="20px" style="display: flex; align-items: bottom; vertical-align: bottom"/>
+    C++ libraries / Bazel Tools
+  </summary>
+  
+  - [`tsnl.log`](https://github.com/tsnl/log): a simple logging library.
+  - [`tsnl.intstr`](https://github.com/tsnl/intstr): interned strings.
+  - [`tsnl.cc_embed`](https://github.com/tsnl/cc_embed): tools to embed binary files in C++ source code (with Bazel rules).
+  - [`tsnl.os_util`](https://github.com/tsnl/os_util): portable high-level operating system utilities, e.g. mmap-ed files.
+  - [`cpp_base`](https://github.com/tsnl/cpp_base): a common template for C++ repos.
+  
+</details>
 
-**Compilers, interpreters, and programming languages**
-- [`snail-scheme`](https://github.com/tsnl/snail-scheme): my Scheme interpreter and compiler (educational).
+<details>
+  <summary>🦀 Rust libs and tools </summary>
+
+  - [`sexpfmt`](https://github.com/tsnl/sexpfmt): S-expression formatter, great for [expect tests](https://blog.janestreet.com/the-joy-of-expect-tests/).
+  - [`simd_math`](https://github.com/tsnl/simd_math): SIMD math functions for spatial computing (games, robotics, etc).
+  - [`semver-bump-and-cargo-publish`](https://github.com/tsnl/semver-bump-and-cargo-publish): GitHub Action to bump semver and `cargo deploy`.
+
+</details>
+
+<details>
+  <summary>🦄 Compilers, interpreters, and programming languages</summary>
+
+  - [`snail-scheme`](https://github.com/tsnl/snail-scheme): my Scheme interpreter and compiler (educational).
+</details>
