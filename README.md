@@ -23,6 +23,7 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 **Rust libraries and tools**
 - [`sexpfmt`](https://github.com/tsnl/sexpfmt): S-expression formatter, great for [expect tests](https://blog.janestreet.com/the-joy-of-expect-tests/).
 - [`simd_math`](https://github.com/tsnl/simd_math): SIMD math functions for spatial computing (games, robotics, etc).
+- [`semver-bump-and-cargo-publish`](https://github.com/tsnl/semver-bump-and-cargo-publish): GitHub Action to help version-bump your Cargo package (semver-style) and then run `cargo deploy`.
 
 **Compilers, interpreters, and programming languages**
 - [`snail-scheme`](https://github.com/tsnl/snail-scheme): my Scheme interpreter and compiler (educational).
