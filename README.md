@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+
 # `tsnl` 🐌
 
 Welcome to my humble abode. 😊
@@ -34,7 +36,6 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 
   - [`sexpfmt`](https://github.com/tsnl/sexpfmt): S-expression formatter, great for [expect tests](https://blog.janestreet.com/the-joy-of-expect-tests/).
   - [`simd_math`](https://github.com/tsnl/simd_math): SIMD math functions for spatial computing (games, robotics, etc).
-  - [`semver-bump-and-cargo-publish`](https://github.com/tsnl/semver-bump-and-cargo-publish): GitHub Action to bump semver and `cargo deploy`.
 
 </details>
 
@@ -42,4 +43,13 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
   <summary>🦄 Compilers, interpreters, and programming languages</summary>
 
   - [`snail-scheme`](https://github.com/tsnl/snail-scheme): my Scheme interpreter and compiler (educational).
+</details>
+
+<details>
+  <summary>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="20px" style="display: flex; align-items: bottom; vertical-align: bottom"/> 
+    GitHub Actions (CI/CD)
+  </summary>
+
+  - [`semver-bump-and-cargo-publish`](https://github.com/tsnl/semver-bump-and-cargo-publish): GitHub Action to bump semver and `cargo deploy`.
 </details>
