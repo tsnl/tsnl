@@ -18,6 +18,14 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 ## Projects
 
 <details>
+  <summary>🤖 Agentic coding</summary>
+
+  - [`skills`](https://github.com/tsnl/skills): portable skills for explanation-first code review and refactoring.
+  - [`myco`](https://github.com/tsnl/myco): a minimalist coding agent that works across machines over SSH.
+
+</details>
+
+<details>
   <summary>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="20px" style="display: flex; align-items: bottom; vertical-align: bottom"/>
     C++ libraries / Bazel Tools
@@ -52,4 +60,11 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
   </summary>
 
   - [`semver-bump-and-cargo-publish`](https://github.com/tsnl/semver-bump-and-cargo-publish): GitHub Action to bump semver and `cargo deploy`.
+</details>
+
+<details>
+  <summary>🎮 Fun</summary>
+
+  - [`ac3-guide`](https://github.com/tsnl/ac3-guide): an interactive campaign checklist for Ace Combat 3: Electrosphere (Japanese version).
+
 </details>
