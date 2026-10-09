@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
-
 # `tsnl` 🐌
 
 Welcome to my humble abode. 😊
@@ -18,7 +16,10 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 ## Projects
 
 <details>
-  <summary>🤖 Agentic coding</summary>
+  <summary>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8" width="20" height="20" align="absmiddle" alt="" />
+    Agentic coding
+  </summary>
 
   - [`skills`](https://github.com/tsnl/skills): portable skills for explanation-first code review and refactoring.
   - [`myco`](https://github.com/tsnl/myco): a minimalist coding agent that works across machines over SSH.
@@ -27,7 +28,7 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 
 <details>
   <summary>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="20px" style="display: flex; align-items: bottom; vertical-align: bottom"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="20" height="20" align="absmiddle" alt="" />
     C++ libraries / Bazel Tools
   </summary>
   
@@ -40,7 +41,10 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 </details>
 
 <details>
-  <summary>🦀 Rust libs and tools </summary>
+  <summary>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png?v8" width="20" height="20" align="absmiddle" alt="" />
+    Rust libs and tools
+  </summary>
 
   - [`sexpfmt`](https://github.com/tsnl/sexpfmt): S-expression formatter, great for [expect tests](https://blog.janestreet.com/the-joy-of-expect-tests/).
   - [`simd_math`](https://github.com/tsnl/simd_math): SIMD math functions for spatial computing (games, robotics, etc).
@@ -48,14 +52,17 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 </details>
 
 <details>
-  <summary>🦄 Compilers, interpreters, and programming languages</summary>
+  <summary>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png?v8" width="20" height="20" align="absmiddle" alt="" />
+    Compilers, interpreters, and programming languages
+  </summary>
 
   - [`snail-scheme`](https://github.com/tsnl/snail-scheme): my Scheme interpreter and compiler (educational).
 </details>
 
 <details>
   <summary>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="20px" style="display: flex; align-items: bottom; vertical-align: bottom"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="20" height="20" align="absmiddle" alt="" />
     GitHub Actions (CI/CD)
   </summary>
 
@@ -63,7 +70,10 @@ You can also reach me via email at [nikhilidiculla@gmail.com](mailto:nikhilidicu
 </details>
 
 <details>
-  <summary>🎮 Fun</summary>
+  <summary>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png?v8" width="20" height="20" align="absmiddle" alt="" />
+    Fun
+  </summary>
 
   - [`ac3-guide`](https://github.com/tsnl/ac3-guide): an interactive campaign checklist for Ace Combat 3: Electrosphere (Japanese version).
 
